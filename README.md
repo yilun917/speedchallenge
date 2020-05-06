@@ -1,4 +1,4 @@
-Welcome to the comma.ai Programming Challenge!
+Comma.ai Programming Challenge!
 ======
 
 Your goal is to predict the speed of a car from a video.
